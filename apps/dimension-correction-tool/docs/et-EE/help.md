@@ -1,4 +1,4 @@
-# Dimensiooni parandaja | Kasutusjuhendd
+# Dimensiooni parandaja | Kasutusjuhend
 
 Dimensiooni parandaja lisab Business Central-i dimensiooni muutmise funktsionaalsuse konteeritud dokumentides ja kannetes.  
 
